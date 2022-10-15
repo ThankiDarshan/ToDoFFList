@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoFFLIST</string>
+    <string name="GetStarted">Get-Started</string>
+    <string name="TodoList">ToDOS</string>
+    <string name="formal">Professional</string>
+    <string name="informal">Personal</string>
+    <string name="formalPrint">Professional Todos List</string>
+    <string name="informalPrint">Personal Todos List</string>
+</resources>
